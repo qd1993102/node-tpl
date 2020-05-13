@@ -1,4 +1,8 @@
-### Node工程例子
+### Node project
+
+### prepare
+
+```yarn install```
 
 #### dev
 
