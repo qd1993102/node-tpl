@@ -14,7 +14,9 @@
       "node",
       "mocha"
     ],
-    "target": "ES6"
+    "pretty": true,
+    "target": "ES6",
+    "declaration": true
   },
   "lib": [
     "ES6"
